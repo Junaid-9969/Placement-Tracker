@@ -1,0 +1,11 @@
+node_modules/
+.env
+dist/
+.DS_Store
+*.log
+uploads/resumes/*
+uploads/certificates/*
+uploads/profiles/*
+!uploads/resumes/.gitkeep
+!uploads/certificates/.gitkeep
+!uploads/profiles/.gitkeep
